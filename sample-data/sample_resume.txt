@@ -1,0 +1,19 @@
+ALEX MORGAN
+alex.morgan@example.com | github.com/alexmorgan | linkedin.com/in/alexmorgan
+
+SUMMARY
+Computer Science undergraduate interested in building reliable web applications and accessible user experiences.
+
+EDUCATION
+B.Tech in Computer Science, Example University, 2022–2026
+
+SKILLS
+Python, JavaScript, React, FastAPI, SQL, Git, Docker, HTML, CSS, REST API, testing.
+
+PROJECTS
+Campus Connect — Built a responsive React interface and Python FastAPI backend. Designed REST API endpoints and stored application data in SQL.
+Task Tracker — Developed a task management application with user-friendly forms and Git-based collaboration.
+
+EXPERIENCE
+Software Engineering Intern, Example Labs
+Worked with a small development team, reviewed pull requests, wrote unit tests, and documented API behavior.

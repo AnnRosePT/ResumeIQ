@@ -1,0 +1,21 @@
+Junior Full-Stack Developer
+
+We are looking for a junior developer to build and maintain responsive web applications.
+
+Required skills:
+- Python and JavaScript
+- React for frontend development
+- FastAPI or similar backend framework
+- SQL database fundamentals
+- Git and REST API design
+- Testing and clear technical documentation
+
+Responsibilities:
+- Build accessible, responsive user interfaces.
+- Develop and integrate backend services.
+- Write tests and participate in code reviews.
+- Collaborate with a cross-functional Agile team.
+
+Preferred:
+- Docker and AWS fundamentals.
+- Experience deploying a small full-stack project.
